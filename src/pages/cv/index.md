@@ -12,16 +12,12 @@ During my freetime, I like to workout and play video games. I'm also a DIY enthu
 I used to brew my own beer, but now I've moved to making honey mead (inspired by Skyrim). I bought a Raspberry PI just so that
 I could experiment with complete workflows in my school projects, with tools including Jenkins, Docker and Robot Framework.
 
-I get excited about new things and I'm eager to learn. I have broad knowledge, covering many programming languages,
-frameworks, testing and CI/CD methods, architecture design and so on. I consider myself an expert in Vue and NodeJS, both with
-TypeScript, as well as Spring Boot with Java.
-
 ***I don't consider myself a programmer or a coder.***
 
 ***I am a problem solver.*** Maybe even a researcher in my wildest dreams.
 
-My strength is the ability learn quickly and deeply. I like to solve new problems and I find it hard to settle for sub-par solutions, and
-that's why I consider my skill set very broad for my short career length.
+My strength is the ability to learn quickly and deeply. Solving new problems excites me, and I find it hard to settle for sub-par solutions;
+that's why I consider my skill set very broad for the length of my career.
 
 ## Work Experience
 
@@ -32,7 +28,7 @@ Worked as an architect on Oscar Software's next-gen web-based ERP software. My b
 and architecture design. I did most of our automated workflows, and kick-started our automation testing processes. Production dashboard
 application was my biggest single implementation.
 
-During this project, I learned the whole process from development to deployment.
+During this project, I learned a lot about the whole process from development to deployment.
 
 Related projects:
 - [Oscar P1](/project/oscar-platform/) (formerly Oscar Platform)
