@@ -20,7 +20,7 @@ TypeScript, as well as Spring Boot with Java.
 
 ***I am a problem solver.*** Maybe even a researcher in my wildest dreams.
 
-My strength is the ability learn quickly and deeply. New problems excite me and I find it hard to settle for sub-par solutions, and
+My strength is the ability learn quickly and deeply. I like to solve new problems and I find it hard to settle for sub-par solutions, and
 that's why I consider my skill set very broad for my short career length.
 
 ## Work Experience
