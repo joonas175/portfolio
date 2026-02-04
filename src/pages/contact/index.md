@@ -6,7 +6,7 @@ pageRoute: [ contact ]
 ---
 ## Contact
 Joonas Salojärvi  
-Full-stack Developer  
+Full-stack Developer and Architect
 Tampere, Finland  
 
 salojarvi.joonas@gmail.com
