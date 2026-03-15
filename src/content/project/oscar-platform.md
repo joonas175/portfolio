@@ -1,7 +1,7 @@
 ---
-name: Oscar Web Platform
+name: Oscar P1
 shortName: oscar-platform
-shortDescription: Micro frontend container for next generation web-based ERP
+shortDescription: Micro frontend based next-gen ERP
 languages: ['TypeScript', 'Java']
 frameworks: ['Vue', 'Spring']
 other: ['AWS', 'Architecture Design', 'GH Actions']
@@ -77,3 +77,11 @@ Implementing workflows to GitHub for automatic testing and deployment:
 - Automatic build on pull requests to test integration
   - Aiming for no broken code ever deployed
 - Automatic build and deployment from selected branches to AWS
+
+### Testing
+
+Testing configuration for Vitest in a monorepo environment for micro frontend based application.
+
+A lot of time spent on developing internal tools for testing.
+
+Organizing a unit and browser testing workshop to kickstart the testing process for the team.
