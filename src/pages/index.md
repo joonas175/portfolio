@@ -15,5 +15,3 @@ Joonas Salojärvi, a full stack developer and software architect from Tampere, F
 Astro with static page generation, hosted on GitHub Pages with a custom domain. And the domain is cool, am I right? Deployed straight
 from main branch with Astro's own workflow. Currently using Svelte and Vue frameworks for components, in addition to Astro's own component
 syntax. See [portfolio repository](https://github.com/joonas175/portfolio) on GitHub for reference.
-
-This website is designed with the idea and the UI over accessibility, sorry about that.
