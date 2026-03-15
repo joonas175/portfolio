@@ -6,46 +6,48 @@ pageRoute: [ cv show joonas ]
 ---
 # Joonas Salojärvi
 
-Originally from Lohja, Finland. Moved to Tampere, Finland for studies in 2017 and have enjoyed my stay here since then.
+Full-stack developer and software architect with a thirst for knowledge.
+Solving new problems excites me and I find it hard to settle for sub-par solutions.
 
-During my freetime, I like to workout and play video games. I'm also a DIY enthusiast, and like to experiment with new things.
-I used to brew my own beer, but now I've moved to making honey mead (inspired by Skyrim). I bought a Raspberry PI just so that
-I could experiment with complete workflows in my school projects, with tools including Jenkins, Docker and Robot Framework.
+I have a broad set of technical and soft skills, which makes me able to solve very complex
+problems even on my own.
 
-***I don't consider myself a programmer or a coder.***
+One of my core strengths is the ability to learn quickly and deeply, which is why I'm not
+afraid to jump into completely new tech stacks.
 
-***I am a problem solver.*** Maybe even a researcher in my wildest dreams.
+During my freetime, I like to workout and play video games. My current hyperfocus is Magic: The Gathering. I'm also a DIY enthusiast, and like to experiment with new things.
+I used to brew my own beer, but now I've moved to making honey mead (inspired by Edler Scrolls V: Skyrim). I got myself a Raspberry PI just so that
+I could experiment with complete CI/CD and testing workflows in my school projects.
 
-My strength is the ability to learn quickly and deeply. Solving new problems excites me, and I find it hard to settle for sub-par solutions;
-that's why I consider my skill set very broad for the length of my career.
 
 ## Work Experience
 
 ### Product Architect
-#### Oscar Software, 2023 ->
+#### Oscar Software (2023 - Present)
 
-Worked as an architect on Oscar Software's next-gen web-based ERP software. My biggest contributions were to the platform core work 
-and architecture design. I did most of our automated workflows, and kick-started our automation testing processes. Production dashboard
-application was my biggest single implementation.
+- Application and system level architecture design
+- Full-stack development
+- Process development
+  - Testing, CI/CD
+- Internal tooling
 
-During this project, I learned a lot about the whole process from development to deployment.
+Related project [Oscar P1](/project/oscar-platform/).
 
-Related projects:
-- [Oscar P1](/project/oscar-platform/) (formerly Oscar Platform)
-
-Related article:
+Related articles:
 - [Oscar P1](https://www.oscar.fi/oscar-p1/)
 - [Nyt on aika ottaa ohjat omiin käsiin – uusi ohjaamonäkymä antaa pk-yritykselle työkalut hallittuun tuotantoon](https://www.oscar.fi/artikkeli/nyt-on-aika-ottaa-ohjat-omiin-kasiin-uusi-ohjaamonakyma-antaa-pk-yritykselle-tyokalut-hallittuun-tuotantoon/) (04.09.2025)
 
 ### Skills Lead, R&D
-#### Oscar Software, 2024
+#### Oscar Software (2025)
 
-As a skills lead, my job was to map individual skill levels and interests, and organize training, courses and workshops when needed.
+- Keeping track of individual skill sets, levels and interests
+- Plan, organize and facilitate employee training
 
 ### Software Developer Trainee
-#### Oscar Software, 2019 - 2023
+#### Oscar Software (2019 - 2023)
 
-Started as a full-stack developer trainee working on a mobile application with other trainees. Quickly moving on to more senior level work.
+- Full-stack mobile application development and deployment
+- Full-stack web application development
 
 Related projects:
 - [Oscar Piikki](/project/piikki/)
@@ -53,6 +55,7 @@ Related projects:
 
 Related article:
 - [Oscar Akatemiassa kehitytään oman alan ammattilaisiksi](https://www.oscar.fi/oscar-akatemiassa-kehitytaan-oman-alan-ammattilaisiksi/) (18.06.2019)
+
 
 ## Education
 
@@ -64,12 +67,13 @@ Thesis: [Low-code Platform Design Using Micro Frontends](https://trepo.tuni.fi/h
 ### Bachelor of Business Administration,  Business Information Systems 
 #### Tampere University of Applied Sciences (2017 - 2021)
 
-During my studies, I took part in tutoring, as well as student union and subject organization work.
-
-In Tampereen Tradenomiopiskelijat Ry (registered student organization for BBA students), I was a board member
-for 2 years, from 2019 to the end of 2020. First year my role was webmaster, second year I was the vice-chairperson.
+- Tutoring
+- Student union council member
+- Student organization board member
+  - Second year as the vice-chairperson
 
 Thesis: [CI/CD-työkalut web-ohjelmiston jakelussa](https://urn.fi/URN:NBN:fi:amk-2021052010109)
+
 
 ## Other
 

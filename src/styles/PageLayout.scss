@@ -78,24 +78,37 @@ i {
   }
 }
 
-h1, h2, h3, h4 {
+h1, h2 {
+  margin-block-start: 2rem;
   font-family: var(--header-font);
-  letter-spacing: 1px;
   color: var(--title-text-color);
+  letter-spacing: 1px;
+  margin-block-end: 1rem;
 }
 
 h2::before {
   content: "> ";
 }
 
+h3, h4 {
+  margin-block-start: 2rem;
+  margin-block-end: 1rem;
+}
+
+h2 + h3 {
+  margin-block-start: 1rem;
+}
+
+h3 + h4 {
+  margin-block-start: -0.75rem;
+}
+
 h3 {
-  color: var(--secondary-title-text-color);
-  margin: 0 0;
+  font-size: 1.4rem;
 }
 
 h4 {
-  color: var(--secondary-title-text-color);
-  margin: 0 0;
+  font-size: 1.17rem;
 }
 
 ul {

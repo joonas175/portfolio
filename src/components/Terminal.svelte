@@ -30,7 +30,7 @@ let formattedAuthor = author
   width: 100%;
   max-width: var(--content-max-width);
   border: 2px solid rgb(0, 217, 255);
-  background-color: #002c5f69;
+  background-color: #002c5fdd;
 }
 
 #terminal-content-container {
