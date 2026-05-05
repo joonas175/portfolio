@@ -23,7 +23,7 @@ I could experiment with complete CI/CD and testing workflows in my school projec
 ## Work Experience
 
 ### Product Architect
-#### Oscar Software (2023 - Present)
+#### Oscar Software (2023 - 2026)
 
 - Application and system level architecture design
 - Full-stack development
